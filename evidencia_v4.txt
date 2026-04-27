@@ -1,0 +1,36 @@
+
+---------- LOGS_V4.TXT
+Failed login from 192.168.1.100
+Failed login from 192.168.1.100
+Failed login from 192.168.1.100
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 172.16.0.30
+Failed login from 192.168.1.200
+
+---------- LOGS_V4.TXT: 2
+
+---------- LOGS_V4.TXT
+Failed login from 192.168.1.200
+Successful login from 192.168.1.200
+
+---------- LOGS_V4.TXT
+Failed login from 192.168.1.100
+Failed login from 192.168.1.100
+Failed login from 192.168.1.100
+Successful login from 192.168.1.100
+
+---------- LOGS_V4.TXT
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+Failed login from 10.0.0.9
+
+---------- LOGS_V4.TXT
+Failed login from 172.16.0.30
